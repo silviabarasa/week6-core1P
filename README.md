@@ -1,6 +1,6 @@
 # week6-core1P
 ## Assessment
-###Overview 
+### Overview 
 
 You have been recruited as a football analyst in a company - Mchezopesa Ltd and tasked to accomplish the task below.
 
@@ -24,52 +24,6 @@ Model 2: Predict how many goals the away team scores.
 - Approach 2: Logistic approach
 
 Feature Engineering: Figure out from the home team’s perspective if the game is a Win, Lose or Draw (W, L, D)
-
-Hint:
-
-Home Team
-
-Home Team Score
-
-Away
-
-Team
-
-Away Team Score
-
-Year
-
-Home Team Rank
-
-Away Team Rank
-
-Tournament Type
-
-Status
-
- 
-
-(W,L,D)
-
-Morocco
-
-2
-
-Kenya
-
-1
-
-2003
-
-20
-
-58
-
-World Cup
-
-Win
-
- 
 
 ### Context
 
